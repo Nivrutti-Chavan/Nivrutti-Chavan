@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=220&section=header&text=Hi%20There,%20I'm%20Nivrutti%20Chavan%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0e75b6,100:1a1a2e&height=220&section=header&text=Hi%20There,%20I'm%20Nivrutti%20Chavan%20👋&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420">
 
@@ -25,9 +25,58 @@
 
 <br>
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,c&theme=dark" /><br><br>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /><br><br>
+
+**Data Science & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,tensorflow,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white" height="48"/><br><br>
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivrutti-chavan&theme=tokyonight&hide_border=true" alt="nivrutti-chavan github streak"/>
+
+</div>
+
+<br>
+
+## 🧩 LeetCode Streak
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/nivrutti-chavan?theme=dark&font=Fira%20Code&ext=heatmap" alt="nivrutti-chavan leetcode stats"/>
+
+</div>
+
+<br>
+
+## 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:chavannivrutti130@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/nivrutti-chavan-a7a8463a1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -37,40 +86,13 @@
 <a href="https://leetcode.com/u/nivrutti-chavan/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:chavannivrutti130@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/nivrutti-chavan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
-<br>
+<br><br>
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</p>
-
-<br>
-
-## 📊 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivrutti-chavan&theme=tokyonight&hide_border=true" alt="nivrutti-chavan streak stats"/>
+<em>Thanks for stopping by — feel free to reach out anytime! 🚀</em>
 
 </div>
 
